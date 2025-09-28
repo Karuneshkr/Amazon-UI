@@ -1,0 +1,17 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "Learning practice of ui automation",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karunesh kumar <mekarunesh09@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^11.7.2",
+    "selenium-webdriver": "^4.35.0"
+  }
+}
